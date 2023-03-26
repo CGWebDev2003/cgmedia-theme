@@ -20,5 +20,7 @@ You can install the theme at the [VS Code marketplace](https://marketplace.visua
 
 ## Authors
 
-- [@CGWebDev2003](https://github.com/CGWebDev2003)
+<a href="https://github.com/CGWebDev2003/cgmedia-theme/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CGWebDev2003/cgmedia-theme" />
+</a>
 
