@@ -1,0 +1,24 @@
+{
+  "name": "cg-media-theme",
+  "displayName": "CG Media Theme",
+  "description": "The official CG Media color theme.",
+  "logo": {
+    "file": "./icon.png"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CG Media Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CG Media Theme-color-theme.json"
+      }
+    ]
+  }
+}
