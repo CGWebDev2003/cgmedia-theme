@@ -4,7 +4,14 @@
 		"editor.background": "#333",
 		"editor.foreground": "#efe8fe",
 		"activityBarBadge.background": "#5E19F7",
-		"sideBarTitle.foreground": "#642ce0"
+		"sideBarTitle.foreground": "#642ce0",
+		"statusBar.background": "#5E19F7",
+		"titleBar.activeForeground": "#844bff",
+		"titleBar.inactiveForeground": "#a479ff",
+		"icon.foreground": "#702efe",
+		"button.background": "#702efe",
+		"button.hoverBackground": "#6822ff",
+		"textLink.foreground": "#702efe"
 	},
 	"tokenColors": [
 		{
@@ -75,7 +82,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#d0baff"
 			}
 		},
 		{
@@ -86,7 +93,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "f71943"
+				"foreground": "#7231fe"
 			}
 		},
 		{
@@ -99,7 +106,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffb882"
 			}
 		},
 		{
@@ -175,7 +182,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#c8b2d6"
 			}
 		},
 		{
@@ -189,7 +196,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#FF5370"
 			}
 		},
 		{
@@ -200,7 +207,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#7231fe"
 			}
 		},
 		{
@@ -220,7 +227,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#bc82ff"
 			}
 		},
 		{
@@ -230,7 +237,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#bc82ff"
 			}
 		},
 		{
@@ -268,7 +275,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#71b6ff"
 			}
 		},
 		{
