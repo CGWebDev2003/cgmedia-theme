@@ -7,7 +7,7 @@
     "file": "./icon.png"
   },
   "icon": "./icon.png",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/CGWebDev2003/cgmedia-theme"
@@ -16,6 +16,8 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=CGWebDev2003.cg-media-theme",
+  "keywords": ["vscode", "theme", "dark", "CG Media"],
   "categories": [
     "Themes"
   ],
