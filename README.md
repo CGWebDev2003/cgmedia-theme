@@ -7,7 +7,15 @@ This is the official CG Media color theme for VS Code. It is made for HTML, CSS 
 
 ## Install
 
+### VS Code Marketplace 
 You can install the theme at the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=CGWebDev2003.cg-media-theme)
+
+### NPM Package
+You can install the theme as an [NPM Package](https://www.npmjs.com/package/cg-media-theme) and add it to your VS Code.
+```
+npm i cg-media-theme
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
