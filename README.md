@@ -1,6 +1,6 @@
 
 # CG Media Theme
-<img src="https://colingrahm.com/themes/cgmedia-theme/screenshoots/github_socials.png" />
+<img src="https://user-images.githubusercontent.com/122671813/229323800-a63c9ef0-f641-4c69-a782-3c7b329ca86a.jpg" />
 
 This is the official CG Media color theme for VS Code. It is made for HTML, CSS and JS files.
 
@@ -19,7 +19,7 @@ npm i cg-media-theme
 
 
 ## Screenshots
-<img src="https://colingrahm.com/themes/cgmedia-theme/screenshoots/screenshoot.png" />
+<img src="https://user-images.githubusercontent.com/122671813/229323817-6d1250d5-53ad-4e31-bad4-21e92d2f2ab4.jpg" />
 
 ## Support
 <a href="https://www.buymeacoffee.com/CGWebDev2003" target="_blank">
