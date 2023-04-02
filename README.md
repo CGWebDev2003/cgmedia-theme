@@ -22,7 +22,7 @@ npm i cg-media-theme
 <img src="https://user-images.githubusercontent.com/122671813/229323817-6d1250d5-53ad-4e31-bad4-21e92d2f2ab4.jpg" />
 
 ## Support
-<a href="https://www.buymeacoffee.com/CGWebDev2003" target="_blank">
+<a href="https://www.buymeacoffee.com/CGWebDev2003/cg-media-theme" target="_blank">
   <img src="https://user-images.githubusercontent.com/122671813/229323497-058caa2a-2a48-4140-ba06-e1073f12566e.jpg" alt="Buy me a pizza button">
 </a><br>
 
